@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="141" started-at="2020-05-17T15:51:14 CEST" finished-at="2020-05-17T15:51:14 CEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="141" started-at="2020-05-17T15:51:14 CEST" finished-at="2020-05-17T15:51:14 CEST">
+      <class name="testNGzadatak.CalculatorTest">
+        <test-method status="PASS" signature="getValueTest()[pri:0, instance:testNGzadatak.CalculatorTest@7551fb]" name="getValueTest" duration-ms="26" started-at="2020-05-17T15:51:14 CEST" finished-at="2020-05-17T15:51:14 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getValueTest -->
+        <test-method status="PASS" signature="setValueTest()[pri:1, instance:testNGzadatak.CalculatorTest@7551fb]" name="setValueTest" duration-ms="4" started-at="2020-05-17T15:51:14 CEST" finished-at="2020-05-17T15:51:14 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValueTest -->
+        <test-method status="PASS" signature="addTest()[pri:2, instance:testNGzadatak.CalculatorTest@7551fb]" name="addTest" duration-ms="2" started-at="2020-05-17T15:51:14 CEST" finished-at="2020-05-17T15:51:14 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTest -->
+        <test-method status="PASS" signature="divTest()[pri:3, instance:testNGzadatak.CalculatorTest@7551fb]" name="divTest" duration-ms="2" started-at="2020-05-17T15:51:14 CEST" finished-at="2020-05-17T15:51:14 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divTest -->
+        <test-method status="PASS" signature="divTest2()[pri:4, instance:testNGzadatak.CalculatorTest@7551fb]" name="divTest2" duration-ms="2" started-at="2020-05-17T15:51:14 CEST" finished-at="2020-05-17T15:51:14 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divTest2 -->
+      </class> <!-- testNGzadatak.CalculatorTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
